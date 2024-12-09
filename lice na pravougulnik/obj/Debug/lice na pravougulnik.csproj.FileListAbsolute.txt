@@ -1,0 +1,2 @@
+C:\Users\1409-3\Desktop\9a Христомир\lice na pravougulnik\obj\Debug\lice na pravougulnik.csproj.AssemblyReference.cache
+C:\Users\1409-3\Desktop\9a Христомир\lice na pravougulnik\obj\Debug\lice na pravougulnik.csproj.CoreCompileInputs.cache

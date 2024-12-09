@@ -1,0 +1,14 @@
+C:\Users\1409-3\Desktop\Hokin\bin\Debug\Hokin.exe.config
+C:\Users\1409-3\Desktop\Hokin\bin\Debug\Hokin.exe
+C:\Users\1409-3\Desktop\Hokin\bin\Debug\Hokin.pdb
+C:\Users\1409-3\Desktop\Hokin\obj\Debug\Hokin.csproj.AssemblyReference.cache
+C:\Users\1409-3\Desktop\Hokin\obj\Debug\Hokin.csproj.CoreCompileInputs.cache
+C:\Users\1409-3\Desktop\Hokin\obj\Debug\Hokin.exe
+C:\Users\1409-3\Desktop\Hokin\obj\Debug\Hokin.pdb
+C:\Users\1409-3\Desktop\9a Христомир\Hokin\bin\Debug\Hokin.exe.config
+C:\Users\1409-3\Desktop\9a Христомир\Hokin\bin\Debug\Hokin.exe
+C:\Users\1409-3\Desktop\9a Христомир\Hokin\bin\Debug\Hokin.pdb
+C:\Users\1409-3\Desktop\9a Христомир\Hokin\obj\Debug\Hokin.csproj.AssemblyReference.cache
+C:\Users\1409-3\Desktop\9a Христомир\Hokin\obj\Debug\Hokin.csproj.CoreCompileInputs.cache
+C:\Users\1409-3\Desktop\9a Христомир\Hokin\obj\Debug\Hokin.exe
+C:\Users\1409-3\Desktop\9a Христомир\Hokin\obj\Debug\Hokin.pdb

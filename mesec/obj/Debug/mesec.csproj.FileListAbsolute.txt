@@ -1,0 +1,7 @@
+C:\Users\1409-3\Desktop\9a Христомир\mesec\bin\Debug\mesec.exe.config
+C:\Users\1409-3\Desktop\9a Христомир\mesec\bin\Debug\mesec.exe
+C:\Users\1409-3\Desktop\9a Христомир\mesec\bin\Debug\mesec.pdb
+C:\Users\1409-3\Desktop\9a Христомир\mesec\obj\Debug\mesec.csproj.AssemblyReference.cache
+C:\Users\1409-3\Desktop\9a Христомир\mesec\obj\Debug\mesec.csproj.CoreCompileInputs.cache
+C:\Users\1409-3\Desktop\9a Христомир\mesec\obj\Debug\mesec.exe
+C:\Users\1409-3\Desktop\9a Христомир\mesec\obj\Debug\mesec.pdb

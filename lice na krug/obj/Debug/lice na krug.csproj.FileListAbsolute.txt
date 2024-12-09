@@ -1,0 +1,7 @@
+C:\Users\1409-3\Desktop\9a Христомир\lice na krug\obj\Debug\lice na krug.csproj.AssemblyReference.cache
+C:\Users\1409-3\Desktop\9a Христомир\lice na krug\obj\Debug\lice na krug.csproj.CoreCompileInputs.cache
+C:\Users\1409-3\Desktop\9a Христомир\lice na krug\bin\Debug\lice na krug.exe.config
+C:\Users\1409-3\Desktop\9a Христомир\lice na krug\bin\Debug\lice na krug.exe
+C:\Users\1409-3\Desktop\9a Христомир\lice na krug\bin\Debug\lice na krug.pdb
+C:\Users\1409-3\Desktop\9a Христомир\lice na krug\obj\Debug\lice na krug.exe
+C:\Users\1409-3\Desktop\9a Христомир\lice na krug\obj\Debug\lice na krug.pdb

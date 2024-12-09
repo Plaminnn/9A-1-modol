@@ -1,0 +1,7 @@
+C:\Users\1409-3\Desktop\9a Христомир\Lice na trapec\bin\Debug\Lice na trapec.exe.config
+C:\Users\1409-3\Desktop\9a Христомир\Lice na trapec\bin\Debug\Lice na trapec.exe
+C:\Users\1409-3\Desktop\9a Христомир\Lice na trapec\bin\Debug\Lice na trapec.pdb
+C:\Users\1409-3\Desktop\9a Христомир\Lice na trapec\obj\Debug\Lice na trapec.csproj.AssemblyReference.cache
+C:\Users\1409-3\Desktop\9a Христомир\Lice na trapec\obj\Debug\Lice na trapec.csproj.CoreCompileInputs.cache
+C:\Users\1409-3\Desktop\9a Христомир\Lice na trapec\obj\Debug\Lice na trapec.exe
+C:\Users\1409-3\Desktop\9a Христомир\Lice na trapec\obj\Debug\Lice na trapec.pdb
