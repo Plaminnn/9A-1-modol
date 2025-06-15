@@ -1,0 +1,7 @@
+C:\Users\plams\Desktop\Plamenn\JIVotni\JIVotni\obj\Debug\JIVotni.csproj.AssemblyReference.cache
+C:\Users\plams\Desktop\Plamenn\JIVotni\JIVotni\obj\Debug\JIVotni.csproj.CoreCompileInputs.cache
+C:\Users\plams\Desktop\Plamenn\JIVotni\JIVotni\bin\Debug\JIVotni.exe.config
+C:\Users\plams\Desktop\Plamenn\JIVotni\JIVotni\bin\Debug\JIVotni.exe
+C:\Users\plams\Desktop\Plamenn\JIVotni\JIVotni\bin\Debug\JIVotni.pdb
+C:\Users\plams\Desktop\Plamenn\JIVotni\JIVotni\obj\Debug\JIVotni.exe
+C:\Users\plams\Desktop\Plamenn\JIVotni\JIVotni\obj\Debug\JIVotni.pdb
