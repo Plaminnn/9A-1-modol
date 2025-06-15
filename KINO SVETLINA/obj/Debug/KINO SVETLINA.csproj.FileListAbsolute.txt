@@ -1,0 +1,7 @@
+C:\Users\plams\Desktop\Plamenn\KINO SVETLINA\KINO SVETLINA\obj\Debug\KINO SVETLINA.csproj.AssemblyReference.cache
+C:\Users\plams\Desktop\Plamenn\KINO SVETLINA\KINO SVETLINA\obj\Debug\KINO SVETLINA.csproj.CoreCompileInputs.cache
+C:\Users\plams\Desktop\Plamenn\KINO SVETLINA\KINO SVETLINA\bin\Debug\KINO SVETLINA.exe.config
+C:\Users\plams\Desktop\Plamenn\KINO SVETLINA\KINO SVETLINA\bin\Debug\KINO SVETLINA.exe
+C:\Users\plams\Desktop\Plamenn\KINO SVETLINA\KINO SVETLINA\bin\Debug\KINO SVETLINA.pdb
+C:\Users\plams\Desktop\Plamenn\KINO SVETLINA\KINO SVETLINA\obj\Debug\KINO SVETLINA.exe
+C:\Users\plams\Desktop\Plamenn\KINO SVETLINA\KINO SVETLINA\obj\Debug\KINO SVETLINA.pdb
